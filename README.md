@@ -1,7 +1,11 @@
 # ***DevLab***
 
+![DevLab Logo](https://github.com/Jak-Shyrak/DevLab/blob/main/logo.png)
+
 DevLab is your go-to platform for developing and managing community game servers on FiveM.
 Our goal is to centralize all the necessary data to make developers' work easier.
+
+Visit the website : https://fivemdevlab.webflow.io/
 
 ## *Key Features*
 
